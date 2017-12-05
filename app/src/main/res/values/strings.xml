@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">udacity-business-page-app</string>
+    <string name="app_title">My Business Page</string>
+    <string name="business_name">Cafe Yolo</string>
+    <string name="address">Address\nScheme No 74c, CH-51, Bhanvarkuan, Sceme No 74c, Vijay Nagar, Indore, Madhya Pradesh 452010</string>
+    <string name="hours">Hours\n9AM–2AM</string>
+    <string name="phone">Phone\n0731 400 9123</string>
+    <string name="description">About\nCafé, Quick Bites with Cafe, Italian, Mexican, Chinese. Has decent ambience with rooftop seating.  gives a clear view of the city. A decent place to hangout with friends.</string>
+</resources>
